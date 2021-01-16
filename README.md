@@ -1,0 +1,2 @@
+# slide-dinamico
+slider dinamico
